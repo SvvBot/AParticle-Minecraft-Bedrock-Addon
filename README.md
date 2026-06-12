@@ -1,5 +1,11 @@
 # AParticle (Amuletcraft Particles)
 
+---
+
+[**คู่มือภาษาไทย (Thai Guide)**](#ภาษาไทย-thai) | [**English Guide**](#english)
+
+---
+
 ## English
 
 **AParticle** is a high-performance parametric particle spawner addon for Minecraft Bedrock Edition developed by Amuletcraft. It evaluates mathematical expressions dynamically and spawns particle shapes asynchronously using timeline management to ensure smooth, lag-free gameplay.
@@ -25,8 +31,6 @@ For the full detailed documentation, syntax rules, math functions, and geometry 
 *   `/aparticle:setting [name] [value]` - Configures server console/action bar warnings.
 
 ---
-
-[**คู่มือภาษาไทย (Thai Guide)**](#ภาษาไทย-thai) | [**English Guide**](#english)
 
 ---
 
