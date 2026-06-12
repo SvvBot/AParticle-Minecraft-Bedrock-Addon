@@ -1,0 +1,33 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "AParticle",
+        "description": "High-performance mathematical particle spawner addon (Amuletcraft).",
+        "uuid": "7f1e4282-3591-4e4b-b235-9856f67554cb",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "9ab332c9-7622-441f-82fa-26d9715fc4b1",
+            "version": "1.0.0",
+            "entry": "scripts/index.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.1.0"
+        }
+    ]
+}
